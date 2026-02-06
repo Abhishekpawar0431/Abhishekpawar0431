@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishekpawar0431
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning Web dezv
 - 📫 How to reach me message me on instagram abhishekpawar0431
 
 <!---
